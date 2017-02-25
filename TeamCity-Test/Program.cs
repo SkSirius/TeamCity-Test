@@ -13,6 +13,7 @@ namespace TeamCity_Test
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World 2");
             // hello world comment
+            // another build here
             Console.ReadLine();
         }
     }
